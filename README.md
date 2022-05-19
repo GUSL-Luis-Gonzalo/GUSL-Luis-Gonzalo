@@ -1,4 +1,6 @@
 - 👋 Hola, soy Luis Gonzalo Guzman Sanchez
+- Soy estudiante de la universidad valle de mexico de campus villahermosa
+- Reparo electrodomesticos
 - 👀 Estoy interesado en ... la creacion de videojuegos
 - 🌱 Estoy actualmente aprendiendo ... Programacion Estructurada
 - 💞️ Estoy Pensando en colaborar con ... nadie
